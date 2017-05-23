@@ -1,0 +1,174 @@
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\bin\Debug\DDSW.exe.config
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.Form1.resources
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.MDIParent1.resources
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\bin\Debug\DDSW.exe
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\bin\Debug\DDSW.pdb
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.exe
+C:\Users\lucas\Desktop\visual estudio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.pdb
+C:\Users\lucas\Desktop\Visual Studio\Nova pasta\DDSW\DDSW\bin\Debug\DDSW.exe.config
+C:\Users\lucas\Desktop\Visual Studio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.exe
+C:\Users\lucas\Desktop\Visual Studio\Nova pasta\DDSW\DDSW\obj\Debug\DDSW.pdb
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\bin\Debug\DDSW.exe.config
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.exe
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.pdb
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.frmCadastro.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.frmEditFunc.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.frmEditProj.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.frmListaFunc.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.frmListaProj.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.frmLogin.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.frmTarefas.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.MDIddsw.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\bin\Debug\DDSW.exe
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\bin\Debug\DDSW.pdb
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\bin\Debug\MySql.Data.dll
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\bin\Debug\MySql.Data.xml
+C:\Users\Demetrius\Documents\Visual Studio 2015\Projects\DDSW\DDSW\obj\Debug\DDSW.frmContatos.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.frmCadastro.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.frmContatos.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.frmEditFunc.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.frmEditProj.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.frmListaFunc.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.frmListaProj.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.frmLogin.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.frmTarefas.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.MDIddsw.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.exe
+E:\Executaveis liberados\DDSW\DDSW\obj\Debug\DDSW.pdb
+E:\Executaveis liberados\DDSW\DDSW\bin\Debug\DDSW.exe.config
+E:\Executaveis liberados\DDSW\DDSW\bin\Debug\DDSW.exe
+E:\Executaveis liberados\DDSW\DDSW\bin\Debug\DDSW.pdb
+E:\Executaveis liberados\DDSW\DDSW\bin\Debug\MySql.Data.xml
+E:\Executaveis liberados\DDSW\DDSW\bin\Debug\MySql.Data.dll
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\bin\Debug\DDSW.exe.config
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.exe
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.pdb
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\bin\Debug\DDSW.exe
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\bin\Debug\DDSW.pdb
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\bin\Debug\MySql.Data.dll
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\bin\Debug\MySql.Data.xml
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmCadastro.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmContatos.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmEditFunc.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmEditProj.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmListaFunc.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmListaProj.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmLogin.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.MDIddsw.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.FrmTarefas.resources
+C:\Users\lucas\Desktop\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmCadTarefas.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\bin\Debug\DDSW.exe.config
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.exe
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.pdb
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\bin\Debug\DDSW.exe
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\bin\Debug\DDSW.pdb
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\bin\Debug\MySql.Data.xml
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmCadastro.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmCadTarefas.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmContatos.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmEditFunc.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmEditProj.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmListaFunc.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmListaProj.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmLogin.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.frmTarefas.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.MDIddsw.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+E:\EXECUTAVEIS LIBERADOS\Sistema\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\bin\Debug\DDSW.exe.config
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.exe
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.pdb
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\bin\Debug\DDSW.exe
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\bin\Debug\DDSW.pdb
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\bin\Debug\MySql.Data.xml
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmCadastro.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmCadTarefas.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmContatos.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmEditFunc.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmEditProj.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmListaFunc.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmListaProj.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmLogin.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.frmTarefas.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.MDIddsw.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+E:\Executaveis liberados\Sistemaquasepronto\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\bin\Debug\DDSW.exe.config
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\bin\Debug\DDSW.exe
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\bin\Debug\DDSW.pdb
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\bin\Debug\MySql.Data.xml
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmCadastro.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmCadTarefas.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmContatos.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmEditFunc.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmEditProj.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmListaFunc.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmListaProj.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmLogin.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.frmTarefas.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.MDIddsw.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.exe
+E:\Executaveis liberados\Sistemaquasepronto - Copia\DDSW\DDSW\obj\Debug\DDSW.pdb
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\bin\Debug\DDSW.exe.config
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.exe
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.pdb
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\bin\Debug\DDSW.exe
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\bin\Debug\DDSW.pdb
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\bin\Debug\MySql.Data.xml
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmCadastro.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmCadTarefas.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmContatos.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmEditFunc.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmEditProj.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmListaFunc.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmListaProj.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmLogin.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmTarefas.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.MDIddsw.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+E:\Executaveis Liberados\Sistema 04.05\DDSW\DDSW\obj\Debug\DDSW.frmFuncTarefa.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\bin\Debug\DDSW.exe.config
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.exe
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.pdb
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.csprojResolveAssemblyReference.cache
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmCadastro.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmCadTarefas.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmContatos.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmEditFunc.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmEditProj.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmFuncTarefa.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmListaFunc.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmListaProj.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmLogin.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.frmTarefas.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.MDIddsw.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.Properties.Resources.resources
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\obj\Debug\DDSW.csproj.GenerateResource.Cache
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\bin\Debug\DDSW.exe
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\bin\Debug\DDSW.pdb
+E:\Executaveis Liberados\Sistema 05.05\DDSW\DDSW\bin\Debug\MySql.Data.xml
+D:\Sistema 17.05\DDSW\DDSW\bin\Debug\DDSW.exe.config
+D:\Sistema 17.05\DDSW\DDSW\obj\Debug\DDSW.exe
+D:\Sistema 17.05\DDSW\DDSW\obj\Debug\DDSW.pdb
+E:\Sistema 17.05\DDSW\DDSW\bin\Debug\DDSW.exe.config
+E:\Sistema 17.05\DDSW\DDSW\obj\Debug\DDSW.exe
+E:\Sistema 17.05\DDSW\DDSW\obj\Debug\DDSW.pdb
